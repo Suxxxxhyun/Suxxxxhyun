@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=180&section=header&text=welcome%20Suhyun _GitHub_Profile&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=180&section=header&text=welcome%20Suhyun-GitHub-Profile&fontSize=70)
 
