@@ -13,6 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java%20&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring%20&logoColor=white)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&desc=Suhyun's%20Github%20profile&descAlign=65&descAlignY=65)  
+
+![Suhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkapuq&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkapuq&layout=compact&theme=radical)
+  
+## 👩‍💻Backend Developer    
+  
+## 🛠Stacks🛠
+**Main**  
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=black">
+<img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Oracle&logoColor=white">
+
+</div>  
 
