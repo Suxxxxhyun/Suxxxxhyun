@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=welcome%20render&fontSize=90)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={Gold})](https://solved.ac/{handle})
