@@ -17,8 +17,8 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&desc=Suhyun's%20Github%20profile&descAlign=65&descAlignY=65)  
 
-![Suhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkapuq&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkapuq&layout=compact&theme=radical)
+![Suhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suxxxxhyun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suxxxxhyun&layout=compact&theme=radical)
   
 ## 👩‍💻Backend Developer
 
