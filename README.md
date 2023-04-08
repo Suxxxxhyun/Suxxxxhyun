@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrtngus116)](https://solved.ac/qkrtngus116)
 
   
-##👩‍💻Backend Developer
+## 👩‍💻Backend Developer
 
-##[Stacks]
+## [Stacks]
   
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=black">
