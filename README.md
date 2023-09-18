@@ -35,8 +35,8 @@
     - Docker
     - CI/CD 
 - Problem Solving
-    - Baekjoon
-    - Programmers
+    - <a href="https://solved.ac/profile/qkrtngus116">Baekjoon</a>
+    - <a href="https://programmers.co.kr/">Programmers</a>
 
 ## 📔 Activities
 ---
