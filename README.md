@@ -17,9 +17,8 @@
 ```
 
 ## 📙 Cards
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrtngus116)](https://solved.ac/qkrtngus116) <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrtngus116)](https://solved.ac/qkrtngus116) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suxxxxhyun&layout=compact&theme=radical)
-
   
 ## 👩‍💻Backend Developer
 
