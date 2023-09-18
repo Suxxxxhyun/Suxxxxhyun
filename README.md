@@ -33,6 +33,7 @@
     - JPA
 - Infra
     - Docker
+    - CI/CD 
 - Problem Solving
     - Baekjoon
     - Programmers
