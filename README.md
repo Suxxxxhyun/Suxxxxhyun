@@ -28,6 +28,8 @@
 - Frameworks
     - Spring Boot
     - Spring
+    - QueryDSL
+      
 - ORM
     - Mybatis
     - JPA
