@@ -15,26 +15,6 @@
 
 ## 📙 Cards
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrtngus116)](https://solved.ac/qkrtngus116)
-  
-## ⭐ Interest
-- Languages
-    - Java
-    - Python
-
-- Frameworks
-    - Spring Boot
-    - Spring
-    - QueryDSL
-      
-- ORM
-    - Mybatis
-    - JPA
-- Infra
-    - Docker
-    - CI/CD 
-- Problem Solving
-    - <a href="https://www.acmicpc.net/">Baekjoon</a>
-    - <a href="https://programmers.co.kr/">Programmers</a>
 
 ## 📔 Activities
 - 솔비트 학생 인턴 | 임상시험 서비스관련 관리자 페이지 | **(2022.03 ~ 2022.07 약4개월)**
