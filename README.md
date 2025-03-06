@@ -5,10 +5,10 @@
 - 씨벤티지 인턴 | API 개발 | **(2024.08 ~ 2024.10)**
 - Kernel360 3기 | **(2024.11.17 ~ 2025.02.28)**
 
-## Projects
-- [Monicar]() | (2025.01 ~ 2025.02)
-- [SNS]() | (2024.01 ~ 2024.02) 
-- [Petree]() | (2023.03 ~ 2023.12)
+## ⭐ Projects
+- [Monicar](https://github.com/Kernel360/KDEV3_monicar_BE) | (2025.01 ~ 2025.02)
+- [SNS](https://github.com/Suxxxxhyun/sns-project) | (2024.01 ~ 2024.02) 
+- [Petree](https://github.com/next-petree/backend) | (2023.03 ~ 2023.12)
   
 ## 🏆 Prizes
 - 한국산업인력공단 일학습병행훈련(**성적우수상**) | 2023.02.28
