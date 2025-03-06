@@ -9,6 +9,12 @@
 - [Monicar](https://github.com/Kernel360/KDEV3_monicar_BE) | (2025.01 ~ 2025.02)
 - [SNS](https://github.com/Suxxxxhyun/sns-project) | (2024.01 ~ 2024.02) 
 - [Petree](https://github.com/next-petree/backend) | (2023.03 ~ 2023.12)
+
+## ✏️ Posts
+- [부하테스트](https://www.canva.com/design/DAGfcRy6xGE/q6HvKo_qZ0ftXHH79zK6rg/edit?utm_content=DAGfcRy6xGE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Cursor기반 페이지네이션으로 성능개선](https://qkrtngus116.tistory.com/91)
+- [비관적 락, 낙관적 락 중 어떤것을 사용할까?](https://qkrtngus116.tistory.com/90)
+
   
 ## 🏆 Prizes
 - 한국산업인력공단 일학습병행훈련(**성적우수상**) | 2023.02.28
