@@ -5,6 +5,7 @@
 - 씨벤티지 인턴 | API 개발 | **(2024.08 ~ 2024.10)**
 - Kernel360 3기 | **(2024.11.17 ~ 2025.02.28)**
 - DDD 동아리 (Android) | **(2025.05.10 ~ 2025.08.30)**
+- TIVING !! 
 
 ## ⭐ Projects
 - [Monicar](https://github.com/Kernel360/KDEV3_monicar_BE) | (2025.01 ~ 2025.02)
