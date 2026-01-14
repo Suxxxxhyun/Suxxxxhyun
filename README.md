@@ -15,11 +15,11 @@
 - [Petree](https://github.com/next-petree/backend) | (2023.03 ~ 2023.12)
 
 ## ✏️ Posts
+- [어느 인턴 개발자의 좌충우돌 성장기](https://velog.io/@qkrtngus116/%EC%96%B4%EB%8A%90-%EC%9D%B8%ED%84%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EC%84%B1%EC%9E%A5%EA%B8%B0)
 - [메시지 브로커를 도입할 수 밖에 없었던 이유 - 부하테스트](https://www.canva.com/design/DAGfcRy6xGE/q6HvKo_qZ0ftXHH79zK6rg/edit?utm_content=DAGfcRy6xGE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [메시지 브로커 중에 Kafka를 도입한 이유](https://github.com/Kernel360/KDEV3_monicar_BE/wiki/%EB%A9%94%EC%8B%9C%EC%A7%80-%EB%B8%8C%EB%A1%9C%EC%BB%A4-%EC%A4%91%EC%97%90-Kafka%EB%A5%BC-%EB%8F%84%EC%9E%85%ED%95%9C-%EC%9D%B4%EC%9C%A0)
 - [Route53 안될때가 있다](https://github.com/Kernel360/KDEV3_monicar_BE/wiki/Route53-%EC%95%88%EB%90%A0%EB%95%8C%EA%B0%80-%EC%9E%88%EB%8B%A4.)
 - [Cursor기반 페이지네이션으로 성능개선](https://qkrtngus116.tistory.com/91)
-- [비관적 락, 낙관적 락 중 어떤것을 사용할까?](https://qkrtngus116.tistory.com/90)
 
   
 ## 🏆 Prizes
